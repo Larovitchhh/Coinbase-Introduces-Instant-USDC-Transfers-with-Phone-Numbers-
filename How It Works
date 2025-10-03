@@ -1,0 +1,4 @@
+The new functionality allows Coinbase users to send USDC, a stablecoin pegged to the US dollar, to recipients without the need for complex wallet addresses or blockchain knowledge. Here’s a step-by-step breakdown of how it works:Initiate the Transfer: Users can start the process by selecting the "Send" option within the Coinbase app and entering the amount of USDC they wish to transfer.
+Choose the Recipient: Instead of requiring a wallet address, users can simply enter the recipient’s phone number or a unique code provided by the recipient. This code can be generated within the Coinbase app and shared via any communication channel.
+Confirm and Send: After verifying the details, the user confirms the transaction. The USDC is then transferred almost instantaneously to the recipient’s Coinbase account or wallet associated with the phone number or code.
+
